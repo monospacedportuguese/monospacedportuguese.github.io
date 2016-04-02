@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "I am, You are"
+date:   2016-04-02 12:50:25 +1100
+---
+
+<pre>
+Ser
+// Use Ser for conditions or characteristics that are permanent
+
+Ser + louco (crazy)
+
+Eu     sou    louco   = I (m) am crazy
+              louca   = I (f) am
+
+Nós    somos  loucos  = We are
+
+Você   é      louco   = You (sg) are
+Ele    é      louco   = He       is
+Ela    é      louca   = She      is
+
+Vocês  são    loucos  = You (pl) are
+Eles   são    loucos  = He  (pl) is
+Elas   são    loucas  = She (pl) is
+
+
+Estar
+// Use Estar for transitory or non-permanent conditions or characteristics
+
+Estar + feliz (happy)
+
+Eu     sou    feliz   = I am happy
+
+Nós    somos  felizes
+
+Você   está   feliz
+Ele    está   feliz
+Ela    está   feliz
+
+Vocês  estão  felizes
+Eles   estão  felizes
+Elas   estão  felizes
+</pre>
